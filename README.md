@@ -16,6 +16,7 @@ A FastAPI-based backend with JWT auth, role-based access, Redis caching, audit l
    - python -m uvicorn app.main:app --reload
 4. Open the UI:
    - http://127.0.0.1:8000
+   - http://localhost:8000
 
 ## Docker
 1. Build and run:
